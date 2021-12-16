@@ -6,7 +6,7 @@ Sweater Weather is a simple mobile app that displays the weather based on your c
 
 Please enable location services to utilize this app. 
 
-Can toggle between Farenheit and Celcius.
+Can toggle between Fahrenheit and Celsius.
 
 Coming soon: Forecasting! How much of a forecast? Who knows. I sure don't. 
 
