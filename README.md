@@ -6,8 +6,20 @@ Sweater Weather is a simple mobile app that displays the weather based on your c
 
 Please enable location services to utilize this app. 
 
-Can toggle between Fahrenheit and Celsius.
+Available weather info includes:
+- Current temperature
+- "feels like" temp
+- Humidity
+- Wind Speed
+- Pressure
 
-Coming soon: Forecasting! How much of a forecast? Who knows. I sure don't. 
+Current features include:
+- Toggling between Fahrenheit and Celsius.
+- A refresh button in case something goes wrong
+- Coming soon: Forecasting! How much of a forecast? Who knows. I sure don't. 
+
+
+
+
 
 
